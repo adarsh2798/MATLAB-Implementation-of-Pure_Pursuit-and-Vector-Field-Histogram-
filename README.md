@@ -15,4 +15,6 @@ As the ceratinity grid is constructed, VFH generates a polar histogram around th
 
 Below images show sample paths taken by robot to reach goal point (8,2) and the ceratinity grid constructed in the process.
 **NOTE THAT BLACK GRID CELLS REPRESENT CELLS WITH HIGH CERATINITY VALUES OF OBSTACLES PRESENT NEAR IT**
-
+<p align="center">
+  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+</p>
